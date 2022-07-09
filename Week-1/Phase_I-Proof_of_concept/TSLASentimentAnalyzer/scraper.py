@@ -1,5 +1,5 @@
 import praw
-from config import settings
+from TSLASentimentAnalyzer.config import settings
 from praw.models import MoreComments
 from loguru import logger
 
